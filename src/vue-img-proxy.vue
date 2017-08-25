@@ -35,8 +35,8 @@ export default {
       };
     }
   },
-   watch: {
-    src: function (val) {
+  watch: {
+    src: function(val) {
       this.loadImg(val);
     }
   },
