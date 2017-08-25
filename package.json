@@ -8,6 +8,16 @@
   },
   "dependencies": {
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simsir-lin/vue-img-proxy"
+  },
+  "keywords": [
+    "vue",
+    "component",
+    "img",
+    "lazyimg"
+  ],
   "main": "src/vue-img-proxy.vue",
   "devDependencies": {
   },
@@ -15,9 +25,4 @@
     "node": ">= 4.0.0",
     "npm": ">= 3.0.0"
   },
-  "browserslist": [
-    "> 1%",
-    "last 2 versions",
-    "not ie <= 8"
-  ]
 }
