@@ -1,0 +1,23 @@
+{
+  "name": "vue-img-proxy",
+  "version": "1.0.1",
+  "description": "vue-img-proxy",
+  "author": "simsir-lin <15986907592@163.com>",
+  "private": false,
+  "scripts": {
+  },
+  "dependencies": {
+  },
+  "main": "src/vue-img-proxy.vue",
+  "devDependencies": {
+  },
+  "engines": {
+    "node": ">= 4.0.0",
+    "npm": ">= 3.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ]
+}
